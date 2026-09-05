@@ -1,0 +1,5 @@
+# LICENSE: Apache License 2.0 (c) 2026 Markys Gariboldo. All rights reserved.
+# CONTOUR: M-498 | UNIT: 77 | PROTOCOL: AGARDA_RESONANCE_SHUTTLE_HD
+
+# Построен на стандартных асинхронных библиотеках asyncio и concurrent.futures
+# Не требует тяжелых внешних зависимостей для минимизации энтропии среды
